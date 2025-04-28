@@ -1,0 +1,18 @@
+{
+    "name": "mull-io/core",
+    "autoload": {
+        "psr-4": {
+            "MullIo\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tim Lochmüller",
+            "email": "tim@fruit-lab.de"
+        }
+    ],
+    "require": {
+        "symfony/string": "7.2.*",
+        "symfony/clock": "7.2.*"
+    }
+}
